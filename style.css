@@ -108,15 +108,18 @@ footer {
   transition-duration: 0.4s;
     border-radius: 12px;
   cursor: pointer;
+    color: inherit;
 }
 
 .button5 {
   background-color: #af7b63;
   color: white;
   border: 2px solid #555555;
+    color: inherit;
 }
 
 .button5:hover {
   background-color: #7c4830;
   color: white;
+    color: inherit;
 }
