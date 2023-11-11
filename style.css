@@ -89,6 +89,9 @@ a {
 .price {
     font-weight: bold;
     color: #904928;
+    background: #904928;
+    padding: 5px;
+    round: 2px;
 }
 
 footer {
