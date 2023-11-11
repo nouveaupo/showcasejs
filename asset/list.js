@@ -5,31 +5,21 @@ const products = [
     info: "My Meuble with artistic theme build with heart and full of functionality"  ,
 },
  {
-  name: "Bag of orange",
-  price: 10,
-  quantity: 1,
-  productId: 2222,
-   valueitem: 10,
-   instock: 100,
-     image: "images/orange.jpg",
+  image:"asset/meuble2.jpg" ,
+    title: "My Beautiful Meuble" ,
+    info: "The scene and the beautiful landscape will force the creativity to build the meuble to the limit"  ,
 },
   {
-  name: "Carton of strawberry",
-  price: 5,
-  quantity: 1,
-  productId: 3333,
-    valueitem: 5,
-    instock: 100,
-      image: "images/strawberry.jpg",
-},
+ image:"asset/meuble3.jpg" ,
+    title: "Embracing Leisure" ,
+    info: "A place to rest with dominated on natural and beautyfull set up"  ,
+  },
 
   {
-    name: "Bag of orange",
-    price: 10,
-    quantity: 1,
-    productId: 2222,
-     valueitem: 10,
-     instock: 100,
-       image: "images/orange.jpg",
+ image:"asset/meuble4.jpg" ,
+    title: "Natural Meuble" ,
+    info: "Nice place to do working and relaxing on the same time"  ,
   }
+
+
   ]
