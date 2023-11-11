@@ -82,16 +82,11 @@ a {
     flex: 2;
     padding-top: 5px;
 }
- .button {
-     flex: 1;
-     background: #904928;
-    padding: 5px;
-    round: 2px;
- }
+ 
 
 .price {
     font-weight: bold;
-    color: #904928;
+    color: white;
     background: #904928;
     padding: 5px;
     round: 2px;
