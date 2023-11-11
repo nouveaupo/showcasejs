@@ -7,6 +7,11 @@ body {
     background-size: cover;
 }
 
+a, a:hover, a:focus, a:active {
+      text-decoration: none;
+      color: inherit;
+ }
+
 header {
     background-color: #904928;
     color: white;
