@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background-color: #187686;
+    background-color: #904928;
     color: white;
     text-align: center;
     padding: 20px;
@@ -88,12 +88,12 @@ a {
 
 .price {
     font-weight: bold;
-    color: #187686;
+    color: #904928;
 }
 
 footer {
     text-align: center;
-    background-color: #187686;
+    background-color: #904928;
     color: white;
     padding: 10px;
     margin: 0;
