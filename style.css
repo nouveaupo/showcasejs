@@ -84,18 +84,6 @@ a {
 }
  
 
-.price {
-    font-weight: bold;
-    color: white;
-    background: #904928;
-    padding: 10px;
-    round: 5px;
-}
-
-button{
-    padding: 10px 25px;
-    round: 5px;
-}
 
 footer {
     text-align: center;
