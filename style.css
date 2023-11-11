@@ -84,6 +84,9 @@ a {
 }
  .button {
      flex: 1;
+     background: #904928;
+    padding: 5px;
+    round: 2px;
  }
 
 .price {
