@@ -30,6 +30,16 @@ const products = [
     title: "My Beautiful Meuble" ,
     info: "The scene and the beautiful landscape will force the creativity to build the meuble to the limit"  ,
 },
+  {
+    image:"asset/meuble1.jpg" ,
+    title: "Futuristic Meuble" ,
+    info: "My Meuble with artistic theme build with heart and full of functionality"  ,
+},
+ {
+  image:"asset/meuble2.jpg" ,
+    title: "My Beautiful Meuble" ,
+    info: "The scene and the beautiful landscape will force the creativity to build the meuble to the limit"  ,
+}
 
 
   ]
