@@ -92,6 +92,11 @@ a {
     round: 5px;
 }
 
+button{
+    padding: 10px 25px;
+    round: 5px;
+}
+
 footer {
     text-align: center;
     background-color: #904928;
