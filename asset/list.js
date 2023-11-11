@@ -1,12 +1,8 @@
 const products = [
   {
-  name: "Carton of cherries",
-  price: 4,
-  quantity: 1,
-  productId: 1111,
-    valueitem: 4,
-    instock: 100,
-      image: "images/cherry.jpg",
+    image:"asset/meuble1.jpg" ,
+    title: "Futuristic Meuble" ,
+    info: "My Meuble with artistic theme build with heart and full of functionality"  ,
 },
  {
   name: "Bag of orange",
